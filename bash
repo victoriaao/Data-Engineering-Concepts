@@ -1,3 +1,3 @@
 #!/bin/bash
 
-mkdir test
+mkdir /home/ec2-user/test
