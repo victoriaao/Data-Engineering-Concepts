@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <Songs>{'Title': 'Bohemian Rhapsody', 'Artist': 'Queen', 'Album': 'A Night at the Opera', 'Year': 1975, 'Hometown City': 'London'}</Songs>
+  </row>
+  <row>
+    <Songs>{'Title': 'Stairway to Heaven', 'Artist': 'Led Zeppelin', 'Album': 'IV', 'Year': 1971, 'Hometown City': 'London'}</Songs>
+  </row>
+  <row>
+    <Songs>{'Title': 'Imagine', 'Artist': 'John Lennon', 'Album': 'Imagine', 'Year': 1971, 'Hometown City': 'Liverpool'}</Songs>
+  </row>
+  <row>
+    <Songs>{'Title': "What's Going On", 'Artist': 'Marvin Gaye', 'Album': "What's Going On", 'Year': 1971, 'Hometown City': 'Washington D.C.'}</Songs>
+  </row>
+  <row>
+    <Songs>{'Title': 'I Want to Hold Your Hand', 'Artist': 'The Beatles', 'Album': 'Meet the Beatles!', 'Year': 1964, 'Hometown City': 'Liverpool'}</Songs>
+  </row>
+</data>
