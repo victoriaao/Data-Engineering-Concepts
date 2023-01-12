@@ -1,0 +1,29 @@
+(Goal -- Understand virtual environments & aliases)
+- Install python 
+#create a new virtual environment
+- conda create -n envname pythonversion python=3.8
+
+#to activate virtual environment
+- conda activate *envname
+
+#install any package via pip
+-  pip install great-expectations
+
+#deactivate & reactivate, notice the difference
+- conda deactivate *envname
+- conda activate *envname
+
+#add alias to bash/zsh profile
+#for zsh profile
+# edit the .zshrc file
+- nano ~/.zshrc 
+- open the .zshrc file in the nano text editor, make changes to the file.
+(alias greet ='Hello, world!')
+- press CTRL + O to save
+- exit nano by pressing CTRL + X
+
+#reactivate with alias
+- call the alias *greet 
+- returns 'Hello, world!'
+
+
