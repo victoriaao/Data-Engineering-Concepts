@@ -75,5 +75,4 @@
 - Create a local CSV file
 - Connect to AWS & load the file w/ Python
 
-##### As you continue your journey in this wild world of data engineering, don’t forget to practice.
-##### It will help you stay engaged, keep your skills sharp and be a reminder of why you were interested in data in the first place.
+#### N:B As you continue your journey in this wild world of data engineering, don’t forget to practice. It will help you stay engaged, keep your skills sharp and be a reminder of why you were interested in data in the first place.
