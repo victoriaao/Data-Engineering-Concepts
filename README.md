@@ -32,55 +32,48 @@
 
 ### Project 4 
 
-Goal: Better understand unstructured data types done
+#### Goal: Better understand unstructured data types done
+- List your 5 favorite songs
+- Under each, list artist, album & year
+- Under each artist, list hometown city
+- Convert to XML
+- Convert to JSON
+- Convert to YAML
 
-List your 5 favorite songs
-Under each, list artist, album & year
-Under each artist, list hometown city
-Convert to XML
-Convert to JSON
-Convert to YAML
+### Project 5 
 
+#### Goal: Become familiar with no-code automation tools
+- Create a Google Sheet
+- Sign up for Zapier (free plan)
+- Connect with any other tool
+- Trigger event by adding a new row
+- Experiment with other tiggers
 
+### Project 6 
 
-Project #5 --1 session 28|12 DONE
+#### Goal: Learn different components of SQL
+- Write a SQL query about a fun topic
+- Convert some logic into a function
+- Call function in query
+- Turn query into Stored Procedure
+- Run Stored Procedure on a schedule
 
-Goal: Become familiar w/ no-code automation tools
+### Project 7 
 
-Create a Google Sheet
-Sign up for Zapier (free plan)
-Connect w/ any other tool
-Trigger event by adding a new row
-Experiment w/ other tiggers
+#### Goal: Learn how websites use databases
+- Create a MySQL DB
+- Create a local webpage with PHP
+- Connect to DB with PHP
+- Run SQL to print a record on page
+- (No graphics - just plain text with a value from the DB)
 
-Project #6 --1 session 29|12 done
+### Project 8
 
-Goal: Learn different components of SQL
+#### Goal: Learn how to remotely interact with (and automate) cloud storage
+- Sign up for AWS
+- Create a S3 Bucket
+- Create a local CSV file
+- Connect to AWS & load the file w/ Python
 
-Write a SQL query about a fun topic
-Convert some logic into a function
-Call function in query
-Turn query into Stored Procedure
-Run Stored Procedure on a schedule
-
-Project #7 --1 session 30|12
-
-Goal: Learn how websites use databases
-
-Create a MySQL DB
-Create a local webpage w/ PHP
-Connect to DB w/ PHP
-Run SQL to print a record on page
-(No graphics - just plain text w/ a value from the DB.)
-
-Project #8 --1 session 2|1
-
-Goal: Learn how to remotely interact with (and automate) cloud storage
-
-Sign up for AWS
-Create a S3 Bucket
-Create a local CSV file
-Connect to AWS & load the file w/ Python
-As you continue your journey in this wild world of data engineering, don’t forget to practice.
-
-It will help you stay engaged, keep your skills sharp and be a reminder of why you were interested in data in the first place.
+##### As you continue your journey in this wild world of data engineering, don’t forget to practice.
+##### It will help you stay engaged, keep your skills sharp and be a reminder of why you were interested in data in the first place.
