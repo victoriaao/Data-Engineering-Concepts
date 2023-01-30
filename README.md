@@ -1,39 +1,36 @@
 # Data-Engineering-Concepts
 
-Project 1
+### Project 1
 
-Goal: See how startup scripts work on VMs done
+#### Goal: See how startup scripts work on VMs done
+- Write bash script to create a directory
+- Create virtual machine on a cloud platform
+- Set startup script -> your bash script
+- Start the VM
+- Open a terminal & confirm directory exists
 
-Write bash script to create a directory
-Create virtual machine on a cloud platform
-Set startup script -> your bash script
-Start the VM
-Open a terminal & confirm directory exists
+### Project 2 
 
-Project 2 
+#### Goal: Understand virtual environments & aliases
+- Install python done 
+- Create a virtual environment
+- Install any package via pip
+- Deactivate & reactivate, notice the difference
+- Add alias to bash/zsh profile
+- Reactivate w/ alias
 
-Goal: Understand virtual environments & aliases
+### Project 3 
 
-Install python done 
-Create a virtual environment
-Install any package via pip
-Deactivate & reactivate, notice the difference
-Add alias to bash/zsh profile
-Reactivate w/ alias
+#### Goal: See a GitHub workflow in action
+- Signup for GitHub done
+- Create a new repository
+- Confirm/Install git locally
+- Create a random SQL file
+- Add remote reps to GH
+- Add, commit, push file to GH rep
+- Create new branch, repeat & merge
 
-Project #3 
-
-Goal: See a GitHub workflow in action
-
-Signup for GitHub done
-Create a new repository
-Confirm/Install git locally
-Create a random SQL file
-Add remote reps to GH
-Add, commit, push file to GH rep
-Create new branch, repeat & merge
-
-Project #4 --1 session 9pm 27|12
+### Project 4 
 
 Goal: Better understand unstructured data types done
 
