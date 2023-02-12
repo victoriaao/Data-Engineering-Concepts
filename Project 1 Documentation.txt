@@ -1,12 +1,6 @@
 ### Goal: See how startup scripts work on VMs done
 
-Write bash script to create a directory
-Create virtual machine on a cloud platform
-Set startup script -> your bash script
-Start the VM
-Open a terminal & confirm directory exist
-
 Documented Solution
-To bash script to create a directory\
+To bash script to create a directory
  #!/bin/bash
 
