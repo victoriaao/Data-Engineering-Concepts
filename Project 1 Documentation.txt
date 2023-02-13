@@ -1,6 +1,5 @@
 ### Goal: See how startup scripts work on VMs done
 
-Documented Solution
 To bash script to create a directory
  #!/bin/bash
 
