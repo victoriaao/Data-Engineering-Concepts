@@ -17,8 +17,11 @@ Open the terminal, type "git --version"
 
 #For a random SQL file
 Using a text editor, write/paste a simple SQL query
-Save it with the .sql extension
+Save as ".sql" extension
 
-Add remote repo to GitHub: Open the terminal and navigate to the directory where the SQL file is saved. Then, run the following command: "git init". After that, run "git remote add origin https://github.com/[username]/[repository name].git", replacing the [username] and [repository name] with your own.
-
-Add, commit, and push the file to the GitHub repo: Use the following commands to add, commit, and push the file to the repository:
+#Adding a remote repo to GitHub
+Open your terminal locally
+Navigate to the directory wherer you've saved the SQL file
+Then, type "git init"
+Next type "git remote add origin 'repository name' e.g https://github.com/[username]/[repository name].git",
+Then use the following commands to add, commit, and push the file to the repository
