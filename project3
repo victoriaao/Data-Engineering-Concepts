@@ -1,0 +1,15 @@
+### Goal: See a GitHub workflow in action
+
+Here is the process to sign up for GitHub and perform the steps you mentioned:
+
+Sign up for GitHub: Go to the GitHub website (github.com), and click on the "Sign up" button. Fill in the required information to create an account.
+
+Create a new repository: After logging in, click on the "+" sign in the top right corner and select "New repository". Give it a name and description and select if you want it to be public or private.
+
+Confirm/install Git locally: To confirm if Git is installed locally, open the terminal and type "git --version". If it's not installed, follow the instructions for installing Git for your operating system.
+
+Create a random SQL file: Open a text editor and write a simple SQL query. Save it with the .sql extension.
+
+Add remote repo to GitHub: Open the terminal and navigate to the directory where the SQL file is saved. Then, run the following command: "git init". After that, run "git remote add origin https://github.com/[username]/[repository name].git", replacing the [username] and [repository name] with your own.
+
+Add, commit, and push the file to the GitHub repo: Use the following commands to add, commit, and push the file to the repository:
