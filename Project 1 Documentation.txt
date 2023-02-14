@@ -1,5 +1,19 @@
 ### Goal: See how startup scripts work on VMs done
 
-To bash script to create a directory
- #!/bin/bash
+#To bash script to create a directory
+mkdir /path/to/directory_name
+
+#create a new virtual machine on AWS
+aws ec2 run-instances --image-id ami-0e094855b95277e67 --count 1 --instance-type 
+t2.micro --key-name my-key-pair --security-group-ids sg-01234567890abcdef0 
+--subnet-id subnet-01234567890abcdef0
+
+#set the startup script for the virtual machine
+aws ec2 create-launch-template --launch-template-name my-launch-template 
+--launch-template-data '{"UserData": "#!/bin/bash\nmkdir /path/to/directory_name"}'
+
+#start the virtual machine
+aws ec2 start-instances --instance-ids i-01234567890abcdef0
+
+#open a terminal and confirm
 
