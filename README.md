@@ -12,7 +12,7 @@
 ### Project 2 
 
 #### Goal: Understand virtual environments & aliases
-- Install python done 
+- Install python 
 - Create a virtual environment
 - Install any package via pip
 - Deactivate & reactivate, notice the difference
@@ -22,7 +22,7 @@
 ### Project 3 
 
 #### Goal: See a GitHub workflow in action
-- Signup for GitHub done
+- Signup for GitHub
 - Create a new repository
 - Confirm/Install git locally
 - Create a random SQL file
@@ -75,4 +75,4 @@
 - Create a local CSV file
 - Connect to AWS & load the file w/ Python
 
-#### N:B See solutions in documentations above. And as you continue your journey in this wild world of data engineering, don’t forget to practice. It will help you stay engaged, keep your skills sharp and be a reminder of why you were interested in data in the first place.
+#### N:B See solutions in documentation above. And as you continue your journey in this wild world of data engineering, don’t forget to practice. It will help you stay engaged, keep your skills sharp and be a reminder of why you were interested in data in the first place.
